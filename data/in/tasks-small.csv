@@ -1,0 +1,15 @@
+Id,SkillRequired,IsPriority
+1,1,false
+2,2,false
+3,2,false
+4,5,false
+5,5,true
+6,5,true
+7,5,false
+8,3,true
+9,5,true
+10,1,true
+11,5,false
+12,5,false
+13,5,false
+14,4,false
